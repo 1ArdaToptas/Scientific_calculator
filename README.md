@@ -1,17 +1,53 @@
-# scientific_calculator
+# 📱 MOBILE APPLICATION DEVELOPMENT PROJECT
 
-A new Flutter project.
+## 🧮 Scientific Calculator (Flutter)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Proje Hakkında
 
-A few resources to get you started if this is your first Flutter project:
+Bu proje, **Mobil Uygulama Geliştirme dersi** kapsamında geliştirilmiş bir **bilimsel hesap makinesi uygulamasıdır**.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Uygulama, kullanıcıların hem temel matematik işlemlerini hem de gelişmiş bilimsel hesaplamaları kolay ve hızlı bir şekilde yapmasını sağlar.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🎯 Amaç
+
+Bu projenin amacı:
+
+* Flutter kullanarak mobil uygulama geliştirme becerisi kazanmak
+* Kullanıcı dostu bir arayüz tasarlamak
+* Matematiksel işlemleri gerçekleştiren bir sistem geliştirmek
+* Algoritma ve parser mantığını uygulamak
+
+---
+
+## ⚙️ Kullanılan Teknolojiler
+
+* **Flutter**
+* **Dart**
+  
+
+---
+
+## 🧠 Özellikler
+
+### 🔢 Temel İşlemler
+
+* Toplama (+)
+* Çıkarma (-)
+* Çarpma (×)
+* Bölme (÷)
+
+### 📊 Bilimsel İşlemler
+
+* Üs alma (^)
+* Karekök (√)
+* Logaritma (log)
+* Trigonometrik fonksiyonlar
+
+  * sin(x)
+  * cos(x)
+  * tan(x)
+---
