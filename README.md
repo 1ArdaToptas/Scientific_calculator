@@ -1,7 +1,7 @@
 # 📱 MOBILE APPLICATION DEVELOPMENT PROJECT
 
 ## 🧮 Scientific Calculator (Flutter)
-
+Arda Toptaş 1030521244
 ---
 
 ## 📌 Proje Hakkında
